@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" aria-hidden="true">
+  <defs>
+    <linearGradient id="skyWash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2471" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#0A2471" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="goldAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFB909"/>
+      <stop offset="100%" stop-color="#E29A00"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Soft sun disc behind skyline -->
+  <circle cx="620" cy="115" r="76" fill="#FFB909" opacity="0.22"/>
+
+  <!-- 1. Roman Colosseum (Italy / Schengen) -->
+  <g transform="translate(20, 152)" fill="#0A2471">
+    <path d="M8 148 L8 52 C48 42, 128 42, 174 58 L174 148 Z" opacity="0.88"/>
+    <path d="M8 82 L174 82 M8 112 L174 112" stroke="#FFF8E6" stroke-width="3"/>
+    <g fill="#FFF8E6">
+      <rect x="20" y="56" width="12" height="20" rx="6"/>
+      <rect x="40" y="54" width="12" height="22" rx="6"/>
+      <rect x="60" y="53" width="12" height="23" rx="6"/>
+      <rect x="80" y="53" width="12" height="23" rx="6"/>
+      <rect x="100" y="54" width="12" height="22" rx="6"/>
+      <rect x="120" y="56" width="12" height="20" rx="6"/>
+      <rect x="20" y="88" width="12" height="20" rx="6"/>
+      <rect x="40" y="88" width="12" height="20" rx="6"/>
+      <rect x="60" y="88" width="12" height="20" rx="6"/>
+      <rect x="80" y="88" width="12" height="20" rx="6"/>
+      <rect x="100" y="88" width="12" height="20" rx="6"/>
+      <rect x="120" y="88" width="12" height="20" rx="6"/>
+      <rect x="20" y="120" width="12" height="22" rx="6"/>
+      <rect x="40" y="120" width="12" height="22" rx="6"/>
+      <rect x="60" y="120" width="12" height="22" rx="6"/>
+      <rect x="80" y="120" width="12" height="22" rx="6"/>
+      <rect x="100" y="120" width="12" height="22" rx="6"/>
+      <rect x="120" y="120" width="12" height="22" rx="6"/>
+    </g>
+  </g>
+
+  <!-- 2. Toronto CN Tower & Canadian Skyline (Canada) -->
+  <g transform="translate(204, 18)">
+    <rect x="52" y="0" width="4" height="58" fill="#0A2471"/>
+    <path d="M51 58 L57 58 L62 282 L46 282 Z" fill="#061547"/>
+    <ellipse cx="54" cy="90" rx="22" ry="8" fill="url(#goldAccent)"/>
+    <ellipse cx="54" cy="84" rx="16" ry="5" fill="#0A2471"/>
+    <rect x="4" y="176" width="34" height="106" rx="3" fill="#173891" opacity="0.85"/>
+    <rect x="72" y="160" width="40" height="122" rx="3" fill="#0A2471" opacity="0.9"/>
+    <g fill="#FFF8E6" opacity="0.55">
+      <rect x="12" y="190" width="6" height="8"/><rect x="24" y="190" width="6" height="8"/>
+      <rect x="12" y="206" width="6" height="8"/><rect x="24" y="206" width="6" height="8"/>
+      <rect x="80" y="174" width="7" height="10"/><rect x="94" y="174" width="7" height="10"/>
+      <rect x="80" y="194" width="7" height="10"/><rect x="94" y="194" width="7" height="10"/>
+    </g>
+  </g>
+
+  <!-- 3. Canton Fair / Chinese Pagoda & Modern Spire (China) -->
+  <g transform="translate(332, 74)">
+    <path d="M40 226 L40 162 L98 162 L98 226 Z" fill="#0A2471"/>
+    <path d="M26 164 Q69 148 112 164 L104 152 Q69 138 34 152 Z" fill="url(#goldAccent)"/>
+    <rect x="46" y="122" width="46" height="32" fill="#173891"/>
+    <path d="M32 124 Q69 110 106 124 L98 112 Q69 100 40 112 Z" fill="url(#goldAccent)"/>
+    <rect x="52" y="86" width="34" height="28" fill="#0A2471"/>
+    <path d="M38 88 Q69 76 100 88 L90 74 Q69 62 48 74 Z" fill="url(#goldAccent)"/>
+    <path d="M68 38 L70 38 L73 68 L65 68 Z" fill="#061547"/>
+  </g>
+
+  <!-- 4. European / UK Clock Tower & Bridge Accent (Europe / Global) -->
+  <g transform="translate(460, 48)">
+    <rect x="24" y="86" width="42" height="166" fill="#061547"/>
+    <polygon points="22,86 45,28 68,86" fill="#0A2471"/>
+    <rect x="44" y="8" width="2" height="22" fill="#061547"/>
+    <rect x="20" y="96" width="50" height="44" rx="4" fill="#173891"/>
+    <circle cx="45" cy="118" r="14" fill="#FFF8E6" stroke="#FFB909" stroke-width="3"/>
+    <path d="M45 110 V118 H51" stroke="#061547" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- 5. Oman Grand Dome & Arch (Oman Work / Residence) -->
+  <g transform="translate(556, 128)">
+    <rect x="12" y="82" width="120" height="90" rx="4" fill="#0A2471" opacity="0.92"/>
+    <path d="M38 82 C38 28, 106 28, 106 82 Z" fill="url(#goldAccent)"/>
+    <rect x="70" y="16" width="4" height="22" fill="#061547"/>
+    <rect x="4" y="42" width="12" height="130" fill="#061547"/>
+    <polygon points="2,42 10,20 18,42" fill="url(#goldAccent)"/>
+    <rect x="128" y="42" width="12" height="130" fill="#061547"/>
+    <polygon points="126,42 134,20 142,42" fill="url(#goldAccent)"/>
+    <path d="M54 172 V124 C54 106, 90 106, 90 124 V172 Z" fill="#FFF8E6" opacity="0.9"/>
+  </g>
+
+  <!-- 6. Modern Harbor Towers & Sails (Serbia / New Zealand) -->
+  <g transform="translate(710, 82)">
+    <path d="M12 218 L12 72 L52 46 L52 218 Z" fill="#173891"/>
+    <path d="M62 218 L62 22 L106 44 L106 218 Z" fill="#061547"/>
+    <path d="M98 218 C118 156, 134 126, 140 218 Z" fill="url(#goldAccent)" opacity="0.92"/>
+    <g fill="#FFF8E6" opacity="0.38">
+      <rect x="20" y="82" width="24" height="4"/>
+      <rect x="20" y="96" width="24" height="4"/>
+      <rect x="20" y="110" width="24" height="4"/>
+      <rect x="70" y="54" width="28" height="5"/>
+      <rect x="70" y="70" width="28" height="5"/>
+      <rect x="70" y="86" width="28" height="5"/>
+    </g>
+  </g>
+
+  <!-- Ground horizon rule -->
+  <rect x="0" y="294" width="860" height="6" fill="#0A2471" opacity="0.14"/>
+</svg>

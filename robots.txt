@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# EDIT: domain — update to match your custom domain or GitHub Pages URL
+Sitemap: https://brielleedgesolutions.com/sitemap.xml

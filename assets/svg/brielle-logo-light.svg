@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 315" role="img" aria-labelledby="brielle-logo-light-title">
+  <title id="brielle-logo-light-title">Brielle Edge Solutions</title>
+  <path
+    fill="#FFB909"
+    d="M459 3C443 24 417 40 381 52C335 60 291 70 274 76L257 86L259 87C276 79 305 71 377 63C398 59 411 55 417 53C407 71 397 82 381 94C369 100 336 110 276 120C254 126 249 128 246 130L250 131C275 125 339 119 372 111C357 134 339 150 323 158C308 162 257 166 226 172C206 180 198 184 189 190C201 142 216 95 234 62C256 39 275 29 304 21C335 17 407 13 435 9L459 3Z"
+  />
+  <text
+    x="2"
+    y="246"
+    fill="#FFFFFF"
+    font-family="'Plus Jakarta Sans', 'Montserrat', 'Segoe UI', Arial, sans-serif"
+    font-size="60"
+    font-weight="800"
+    font-style="italic"
+    letter-spacing="-1.6"
+  >Brielle Edge</text>
+  <text
+    x="2"
+    y="302"
+    fill="#FFFFFF"
+    font-family="'Plus Jakarta Sans', 'Montserrat', 'Segoe UI', Arial, sans-serif"
+    font-size="60"
+    font-weight="800"
+    font-style="italic"
+    letter-spacing="-1.6"
+  >Solutions</text>
+</svg>
